@@ -3,3 +3,4 @@ Adding some text
 Adding some more text
 
 Adding a 3rd line
+Add 4th line
